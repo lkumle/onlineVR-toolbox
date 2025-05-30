@@ -14,6 +14,3 @@ If you have any questions, suggestions, or issues, please feel free to reach out
 ## Citation
 
 [add later]
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/lkumle/onlineVR-toolbox/blob/main/LICENSE) file for details.
