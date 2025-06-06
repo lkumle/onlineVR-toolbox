@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.abclab.online-vr": "file:/Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/notebooks_web/onlineVR-toolbox/1_unityPackage/onlineVR",
+    "com.abclab.online-vr": "file:/Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/1_unityPackage/onlineVR",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "4.4.2",

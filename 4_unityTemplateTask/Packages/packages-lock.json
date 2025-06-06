@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.abclab.online-vr": {
-      "version": "file:/Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/notebooks_web/onlineVR-toolbox/1_unityPackage/onlineVR",
+      "version": "file:/Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/1_unityPackage/onlineVR",
       "depth": 0,
       "source": "local",
       "dependencies": {}
