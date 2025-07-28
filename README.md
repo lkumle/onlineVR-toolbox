@@ -13,4 +13,4 @@ If you have any questions, suggestions, or issues, please feel free to reach out
 
 ## Citation
 
-[add later]
+Kumle, L., Brazier, A., Kovoor, J., Keil, J. S., Nobre, K., & Draschkow, D. (2025, July 18). Running Virtual Reality Experiments Online: A Brief Introduction and Tutorial. https://doi.org/10.31219/osf.io/hax47_v1
