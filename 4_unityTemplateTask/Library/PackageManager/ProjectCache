@@ -5,94 +5,31 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638848028690000000
-    m_Hash: 774319205
+      ticks: 638892905780000000
+    m_Hash: 3699058314
   m_LockFileStatus:
     m_FilePath: /Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/4_unityTemplateTask/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638848028690000000
-    m_Hash: 1676086574
+      ticks: 638892913560000000
+    m_Hash: 2760519259
 m_EmbeddedPackageManifests:
-  m_ManifestsStatus: {}
+  m_ManifestsStatus:
+    /Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/4_unityTemplateTask/Packages/com.abclab.online-vr/package.json:
+      m_FilePath: /Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/4_unityTemplateTask/Packages/com.abclab.online-vr/package.json
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 638826374820000000
+      m_Hash: 4286609317
 m_LocalPackages:
-  m_LocalFileStatus:
-  - m_FilePath: /Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/1_unityPackage/onlineVR/package.json
-    m_PathExists: 1
-    m_ContentTrackingEnabled: 1
-    m_ModificationDate:
-      serializedVersion: 2
-      ticks: 638826374820000000
-    m_Hash: 4286609317
-  - m_FilePath: /Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/1_unityPackage/onlineVR
-    m_PathExists: 1
-    m_ContentTrackingEnabled: 1
-    m_ModificationDate:
-      serializedVersion: 2
-      ticks: 0
-    m_Hash: 0
+  m_LocalFileStatus: []
 m_ProjectPath: /Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/4_unityTemplateTask/Packages
 m_EditorVersion: 2022.3.59f1 (630718f645a5)
 m_ResolvedPackages:
-- packageId: com.abclab.online-vr@file:/Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/1_unityPackage/onlineVR
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.0
-  source: 4
-  resolvedPath: /Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/1_unityPackage/onlineVR
-  assetPath: Packages/com.abclab.online-vr
-  name: com.abclab.online-vr
-  displayName: onlineVR
-  author:
-    name: AB&C Lab, University of Oxford
-    email: abclab@psy.ox.ac.uk
-    url: https://www.psy.ox.ac.uk/research/adaptive-behaviour-cognition
-  category: 
-  type: 
-  description: This package contains data transfer functionalities to enable online
-    VR data collection
-  status: 0
-  errors: []
-  versions:
-    all: []
-    compatible: []
-    recommended: 
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - psychology
-  - online
-  - VR
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: https://lkumle.github.io/onlineVRtoolbox_tutorials/
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  fingerprint: 
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
@@ -377,6 +314,7 @@ m_ResolvedPackages:
     - 1.1.4
     - 1.1.5
     - 1.1.6
+    - 1.1.7
     - 2.0.0-pre.3
     - 2.0.0-pre.4
     - 2.0.0
@@ -389,7 +327,8 @@ m_ResolvedPackages:
     compatible:
     - 1.1.5
     - 1.1.6
-    recommended: 1.1.6
+    - 1.1.7
+    recommended: 1.1.7
     deprecated: []
   dependencies:
   - name: com.unity.modules.ai
@@ -1068,10 +1007,14 @@ m_ResolvedPackages:
     - 4.12.1-pre.4
     - 4.12.1
     - 4.12.2
+    - 4.13.0
     - 5.0.0-pre.1
     - 5.0.0-pre.3
     - 5.0.0-pre.4
     - 5.0.0-pre.5
+    - 5.0.0-pre.6
+    - 5.0.0-pre.7
+    - 5.0.0-pre.8
     compatible:
     - 4.11.0
     - 4.12.0
@@ -1080,11 +1023,15 @@ m_ResolvedPackages:
     - 4.12.1-pre.4
     - 4.12.1
     - 4.12.2
+    - 4.13.0
     - 5.0.0-pre.1
     - 5.0.0-pre.3
     - 5.0.0-pre.4
     - 5.0.0-pre.5
-    recommended: 4.12.2
+    - 5.0.0-pre.6
+    - 5.0.0-pre.7
+    - 5.0.0-pre.8
+    recommended: 4.13.0
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -1139,7 +1086,7 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 4.11.0
     nextVersion: 
-    recommendedVersion: 4.12.0
+    recommendedVersion: 4.13.0
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -1690,7 +1637,10 @@ m_ResolvedPackages:
     compatible:
     - 1.0.0
     recommended: 1.0.0
-    deprecated: []
+    deprecated:
+    - 3.0.0-exp.1
+    - 3.0.0-exp.3
+    - 3.0.0-exp.4
   dependencies:
   - name: com.unity.modules.ui
     version: 1.0.0
@@ -3711,6 +3661,63 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
+- packageId: com.abclab.online-vr@file:/Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/4_unityTemplateTask/Packages/com.abclab.online-vr
+  testable: 1
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 3
+  resolvedPath: /Users/levikumle/Library/CloudStorage/OneDrive-Nexus365/1_Research/ObjectSorting/onlineVR/5_tutorialResources/GitHub/onlineVR-toolbox/4_unityTemplateTask/Packages/com.abclab.online-vr
+  assetPath: Packages/com.abclab.online-vr
+  name: com.abclab.online-vr
+  displayName: onlineVR
+  author:
+    name: AB&C Lab, University of Oxford
+    email: abclab@psy.ox.ac.uk
+    url: https://www.psy.ox.ac.uk/research/adaptive-behaviour-cognition
+  category: 
+  type: 
+  description: This package contains data transfer functionalities to enable online
+    VR data collection
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - psychology
+  - online
+  - VR
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: https://lkumle.github.io/onlineVRtoolbox_tutorials/
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
@@ -3898,9 +3905,11 @@ m_ResolvedPackages:
     - 1.12.5
     - 1.13.0
     - 1.14.0
+    - 1.15.1
     compatible:
     - 1.14.0
-    recommended: 1.14.0
+    - 1.15.1
+    recommended: 1.15.1
     deprecated: []
   dependencies:
   - name: com.unity.modules.androidjni
@@ -3938,7 +3947,7 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.14.0
     nextVersion: 
-    recommendedVersion: 1.14.0
+    recommendedVersion: 1.15.1
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -3996,10 +4005,12 @@ m_ResolvedPackages:
     - 6.0.1
     - 6.0.2
     - 6.0.3
+    - 6.1.0
     compatible:
     - 6.0.2
     - 6.0.3
-    recommended: 6.0.3
+    - 6.1.0
+    recommended: 
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -4047,7 +4058,7 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 6.0.2
     nextVersion: 
-    recommendedVersion: 6.0.1
+    recommendedVersion: 5.0.0
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
